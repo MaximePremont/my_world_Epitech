@@ -1,0 +1,18 @@
+Terraformer program created with CSFML by David Gozlan and Maxime Premont.
+
+USAGE
+    ./my_world [OPTIONS | FILE_PATH]
+    FILE_PATH   launch the level if it's compatible.
+
+DESCRIPTION
+    My_world
+
+OPTIONS
+    -h print the usage and quit.
+
+USER INTERACTIONS
+    ARROWS      Map movement
+    '+' '-'     Zoom / Dezoom
+    Left click : Up relief
+    Rght click : Down relief
+    Keyboard inputs : Write map name in main menu
